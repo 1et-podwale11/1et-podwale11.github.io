@@ -11,6 +11,17 @@ body {
   text-align: center;
 }
 
+.footer {
+  background-color: #424242;
+  text-align: center;
+  padding: 10px;
+}
+
+.dark-mode .footer {
+  background-color: #e0e0e0;
+  text-align: center;
+  padding: 10px;
+}
 
 .et1 {
   font-size: 40px;
