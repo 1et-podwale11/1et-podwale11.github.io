@@ -7,11 +7,12 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 70px 0;
   text-align: center;
+  justify-content: center;
+  height: 200px;
 }
 
-.footer {
+/*.footer {
   background-color: #424242;
   color: #e0e0e0;
   text-align: bottom;
@@ -21,9 +22,10 @@ body {
   background-color: #e0e0e0;
   color: #424242;
 }
-
+*/
 .et1 {
   font-size: 40px;
+  width: 10em;
 }
 
 .dark-mode {
