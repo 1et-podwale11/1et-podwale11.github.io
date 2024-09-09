@@ -19,6 +19,10 @@ body {
   color: #e0e0e0;
 }
 
+.dark-mode .prezes {
+  color: #121212;
+}
+
 .prezes {
   font-size: 2px;
   color: white;
