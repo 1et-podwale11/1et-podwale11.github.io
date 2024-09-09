@@ -13,3 +13,8 @@ body {
 .et1 {
   font-size: 40px;
 }
+
+.dark-mode {
+  background: #121212;
+  color: #e0e0e0;
+}
