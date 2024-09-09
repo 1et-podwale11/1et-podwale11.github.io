@@ -14,15 +14,12 @@ body {
 .footer {
   background-color: #424242;
   color: #e0e0e0;
-  text-align: center;
-  padding: 10px;
+  text-align: bottom;
 }
 
 .dark-mode .footer {
   background-color: #e0e0e0;
   color: #424242;
-  text-align: center;
-  padding: 10px;
 }
 
 .et1 {
