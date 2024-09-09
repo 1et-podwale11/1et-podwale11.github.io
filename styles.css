@@ -14,9 +14,9 @@ body {
   font-size: 40px;
   margin: 0;
   position: absolute;
-  top: 30%;
+  top: 10%;
   left: 50%;
-  transform: translate(-50%, -30%);
+  transform: translate(-50%, -10%);
 }
 
 .dark-mode {
