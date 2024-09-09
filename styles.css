@@ -15,12 +15,12 @@ body {
 }
 
 .dark-mode {
-  background: #121212;
+  background: #424242;
   color: #e0e0e0;
 }
 
 .dark-mode .easteregg {
-  color: #121212;
+  color: #424242;
 }
 
 .easteregg {
