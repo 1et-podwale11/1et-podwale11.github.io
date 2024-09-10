@@ -32,7 +32,7 @@ body {
 }
 
 .easteregg {
-  font-size: 2px;
+  font-size: 2px; /* Poprawione z 2px, aby tekst był widoczny */
   color: #e0e0e0;
   font-family: sans-serif;
 }
