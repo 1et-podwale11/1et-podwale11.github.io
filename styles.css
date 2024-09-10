@@ -12,20 +12,14 @@ body {
   height: 200px;
 }
 
-/*.footer {
-  background-color: #424242;
-  color: #e0e0e0;
-  text-align: bottom;
-}
-
-.dark-mode .footer {
-  background-color: #e0e0e0;
-  color: #424242;
-}
-*/
 .et1 {
   font-size: 40px;
   width: 10em;
+  color: black;
+}
+
+.dark-mode .1et {
+  color: white;
 }
 
 .dark-mode {
@@ -42,3 +36,15 @@ body {
   color: #e0e0e0;
   font-family: sans-serif;
 }
+
+/*.footer {
+  background-color: #424242;
+  color: #e0e0e0;
+  text-align: bottom;
+}
+
+.dark-mode .footer {
+  background-color: #e0e0e0;
+  color: #424242;
+}
+*/
