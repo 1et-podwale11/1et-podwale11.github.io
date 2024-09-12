@@ -37,8 +37,8 @@ body {
 }
 
 button {
-  padding: 10px 20px;
-  font-size: 1em;
+  padding: 12px 22px;
+  font-size: 1.2em;
   border: none;
   border-radius: 5px;
   background-color: #3498db;
@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-  background-color: #2980b9;
+  background-color: #1d6fa5;
 }
 
 .dark-mode .et1 {
