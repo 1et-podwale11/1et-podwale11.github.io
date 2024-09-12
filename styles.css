@@ -16,19 +16,18 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  text-align: center;
 }
 
 .et1 {
   color: black;
   font-size: 40px;
   font-weight: bold;
-  text-align: center;
   margin-bottom: 10px;
 }
 
 .et1_2 {
   font-size: 1.2em;
-  text-align: center;
   color: black;
 }
 
