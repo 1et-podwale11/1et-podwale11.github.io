@@ -36,18 +36,19 @@ body {
   gap: 10px;
 }
 
-button {
+.button-container a {
   padding: 12px 22px;
   font-size: 1.2em;
   border: none;
   border-radius: 5px;
   background-color: #3498db;
   color: white;
+  text-decoration: none;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
-button:hover {
+.button-container a:hover {
   background-color: #1d6fa5;
 }
 
