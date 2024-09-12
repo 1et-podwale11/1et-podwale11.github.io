@@ -57,7 +57,7 @@ body {
   padding: 12px 22px;
   font-size: 1.2em;
   border-radius: 5px;
-  background-color: #3f3f3f;
+  background-color: #565656;
   color: white;
   text-decoration: none;
   cursor: pointer;
@@ -65,7 +65,7 @@ body {
 }
 
 .dark-mode .button-container a:hover {
-  background-color: #565656;
+  background-color: #7c7c7c;
 }
 
 .dark-mode .et1 {
