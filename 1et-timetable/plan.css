@@ -4,6 +4,10 @@ body{
 	font:11px verdana,sans-serif;
 	overflow:auto;
 	margin:0}
+.dark-mode {
+  background: #424242;
+  color: #e0e0e0;
+}
 .dark-mode body{
 	background-color:#000000}
 .tabtytul{ /* tabelka z grafik¹ (nag³ówek) */
