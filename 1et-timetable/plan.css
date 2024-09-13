@@ -4,17 +4,19 @@ body{
 	font:11px verdana,sans-serif;
 	overflow:auto;
 	margin:0}
-.tabtytul{ /* tabelka z grafik¹ (nag³ówek) */
+.dark-mode body{
+	background-color:#000000}
+.tabtytul{ /* tabelka z grafikÂ¹ (nagÂ³Ã³wek) */
 	background-color:#80c2ab;
 	border-bottom:2px solid #808080}
-.tytul{ /* komórka z tytu³em */
+.tytul{ /* komÃ³rka z tytuÂ³em */
 	background-color:#80c2ab;
 	color:#ffffff;
 	height:80px;
 	font:bold 36px verdana,sans-serif;
 	border-bottom:2px solid #c0c0c0;
 	text-align:center}
-.tytulnapis{ /* tytu³ strony z cieniem (tylko IE) */
+.tytulnapis{ /* tytuÂ³ strony z cieniem (tylko IE) */
 	padding-left:10px;width:400px;height:60px;filter:Shadow(Color=#666666,Direction=150)}
 .tabela{ /* tabela z planem */
 	border-color:#c0c0c0}
@@ -53,7 +55,7 @@ a.k{ /* klasa */
 .op{ /* napis */
 	font:10px verdana,sans-serif}
 @media print{
-.tabtytul{ /* nag³ówek do druku */
+.tabtytul{ /* nagÂ³Ã³wek do druku */
 	display:none}
 }
 .logo{
