@@ -91,3 +91,50 @@ body {
   color: #e0e0e0;
   font-family: sans-serif;
 }
+
+.hot-it {
+float: right;
+position: sticky;
+display: flex;
+bottom: 5px;
+right: 5px;
+width: auto;
+max-width: 500px;
+background-color: #7c7c7c;
+justify-content: right;
+align-items: end;
+border-radius: 5px;
+padding: 10px;
+flex-direction: row;
+align-items: center;
+
+}
+
+.hot-it-title {
+  font-size: 1.2em;
+  margin: 5px;
+
+}
+
+.hot-descript {
+  font-size: 0.9em;
+  margin: 5px;
+}
+
+
+.hot-text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.hot-it img {
+  height: 100px;
+  width: 100px;
+}
+.hot-it-link {
+  display: inline;
+}
