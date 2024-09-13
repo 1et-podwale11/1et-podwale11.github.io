@@ -6,7 +6,7 @@ body {
   margin: 0;
 }
 .dark-mode {
-  background: #424242;
+  background: #383838;
   color: #e0e0e0;
 }
 .dark-mode body {
@@ -19,7 +19,7 @@ body {
 }
 .tytul {
   /* komórka z tytu³em */
-  background-color: #6ee2e6;
+  background-color: #696969;
   color: #ffffff;
   height: 80px;
   font: bold 36px verdana, sans-serif;
@@ -28,7 +28,7 @@ body {
 }
 .tytulnapis {
   /* tytu³ strony z cieniem (tylko IE) */
-	font-size: 70px;
+  font-size: 70px;
   padding-left: 10px;
   width: 400px;
   height: 60px;
@@ -40,13 +40,17 @@ body {
 }
 td {
   font-size: 11px;
-	color: #000000;
+  color: #e9e9e9;
 }
 
 th {
-  background-color: #6ee2e6;
+  background-color: #613dc1;
   color: #000000;
   font-size: 13px;
+}
+
+.dark-mode th {
+  background-color: rgb(85, 85, 85);
 }
 
 td.g {
@@ -60,13 +64,13 @@ td.g {
 }
 
 .dark-mode td.g {
-	color: rgb(233, 233, 233);
-	background-color: #272727;
+  color: #d6d6d6;
+  background-color: #474747;
 }
 
 td.nr {
   /* numer lekcji */
-  background-color: #6ee2e6;
+  background-color: rgb(221, 221, 221) 7;
   color: #000000;
   font-weight: bold;
   text-align: center;
@@ -80,21 +84,21 @@ td.l {
 }
 
 .dark-mode td.l {
-	color: rgb(233, 233, 233);
-  background-color: #272727;
+  color: #d6d6d6;
+  background-color: #474747;
 }
 
 a.n {
   /* nauczyciel */
-  color: #55ff4f;
+  color: #00886a;
 }
 a.s {
   /* sala */
-  color: #55ff4f;
+  color: #00886a;
 }
 a.k {
   /* klasa */
-  color: #55ff4f;
+  color: #00886a;
 }
 .p {
   /* przedmiot */
@@ -103,7 +107,7 @@ a.k {
 }
 
 .dark-mode .p {
-  color: rgb(233, 233, 233);
+  color: #d6d6d6;
 }
 
 .op {
