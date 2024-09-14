@@ -1,6 +1,6 @@
 body {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #383838;
+  color: #e0e0e0;
   font: 11px verdana, sans-serif;
   overflow: auto;
   margin: 0;
@@ -44,49 +44,35 @@ td {
 }
 
 th {
-  background-color: #ebebeb;
-  color: #000000;
-  font-size: 13px;
-}
-
-.dark-mode th {
   background-color: rgb(85, 85, 85);
   color: rgb(241, 241, 241);
+  font-size: 13px;
 }
 
 td.g {
   /* godzina */
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #474747;
+  color: #d6d6d6;
   font-weight: bold;
   vertical-align: top;
   text-align: center;
   white-space: nowrap;
 }
 
-.dark-mode td.g {
-  color: #d6d6d6;
-  background-color: #474747;
-}
-
 td.nr {
   /* numer lekcji */
-  background-color: #ebebeb;
-  color: #000000;
+  background-color: #474747;
+  color: #d6d6d6;
   font-weight: bold;
   text-align: center;
   vertical-align: top;
 }
+
 td.l {
   /* lekcja */
-  background-color: #ffffff;
-  color: #000000;
-  vertical-align: top;
-}
-
-.dark-mode td.l {
-  color: #d6d6d6;
   background-color: #474747;
+  color: #d6d6d6;
+  vertical-align: top;
 }
 
 a.n {
@@ -103,12 +89,8 @@ a.k {
 }
 .p {
   /* przedmiot */
-  color: #000000;
+  color: #ebebeb;
   font-weight: bold;
-}
-
-.dark-mode .p {
-  color: #d6d6d6;
 }
 
 .op {
