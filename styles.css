@@ -52,6 +52,12 @@ body {
   background-color: #7a7a7a;
 }
 
+.button-container.single-button a {
+  display: block;
+  margin-top: 10px;
+  margin-left: 12px;
+}
+
 .dark-mode .button-container a {
   display: inline-block;
   padding: 12px 22px;
