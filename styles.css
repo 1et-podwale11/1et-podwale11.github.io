@@ -55,7 +55,6 @@ body {
 .button-container.single-button a {
   display: block;
   margin-top: 10px;
-  margin-left: 12px;
 }
 
 .dark-mode .button-container a {
