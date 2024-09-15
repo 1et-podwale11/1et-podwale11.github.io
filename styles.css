@@ -55,7 +55,6 @@ body {
 .button-container.single-button a {
   display: block;
   margin-top: 10px;
-  margin-left: 12px;
 }
 
 .dark-mode .button-container a {
@@ -121,8 +120,12 @@ body {
 
 .hot-descript {
   font-size: 0.9em;
-  margin: 5px;
+  margin: 0px;
+  margin-left: 0em;
+  padding: 0;
+  white-space: nowrap;
 }
+
 
 .hot-text-container {
   display: flex;
