@@ -14,12 +14,12 @@ body {
 }
 .tabtytul {
   /* tabelka z grafika (naglówek) */
-  background-color: #6ee2e6;
+  background-color: #e0e0e0;
   border-bottom: 2px solid #808080;
 }
 .tytul {
   /* komórka z tytulem */
-  background-color: #696969;
+  background-color: #e0e0e0;
   color: #ffffff;
   height: 80px;
   font: bold 36px verdana, sans-serif;
@@ -51,7 +51,7 @@ th {
 
 td.g {
   /* godzina */
-  background-color: #474747;
+  background-color: #e0e0e0;
   color: #d6d6d6;
   font-weight: bold;
   vertical-align: top;
@@ -61,7 +61,7 @@ td.g {
 
 td.nr {
   /* numer lekcji */
-  background-color: #474747;
+  background-color: #e0e0e0;
   color: #d6d6d6;
   font-weight: bold;
   text-align: center;
@@ -70,7 +70,7 @@ td.nr {
 
 td.l {
   /* lekcja */
-  background-color: #474747;
+  background-color: #e0e0e0;
   color: #d6d6d6;
   vertical-align: top;
 }
