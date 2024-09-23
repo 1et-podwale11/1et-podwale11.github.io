@@ -126,7 +126,6 @@ body {
   white-space: nowrap;
 }
 
-
 .hot-text-container {
   display: flex;
   flex-direction: column;
@@ -139,6 +138,7 @@ body {
   height: 100px;
   width: 100px;
 }
+
 .hot-it-link {
   display: inline;
 }
