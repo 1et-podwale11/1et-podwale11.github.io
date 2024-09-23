@@ -1,6 +1,6 @@
 body {
   background-color: #e0e0e0;
-  color: black;
+  color: #383838;
   font: 11px verdana, sans-serif;
   overflow: auto;
   margin: 0;
@@ -40,7 +40,7 @@ body {
 }
 td {
   font-size: 11px;
-  color: #c0c0c0;
+  color: #383838;
 }
 
 th {
@@ -52,7 +52,7 @@ th {
 td.g {
   /* godzina */
   background-color: #e0e0e0;
-  color: #d6d6d6;
+  color: #383838;
   font-weight: bold;
   vertical-align: top;
   text-align: center;
@@ -62,7 +62,7 @@ td.g {
 td.nr {
   /* numer lekcji */
   background-color: #e0e0e0;
-  color: #d6d6d6;
+  color: #383838;
   font-weight: bold;
   text-align: center;
   vertical-align: top;
@@ -71,25 +71,25 @@ td.nr {
 td.l {
   /* lekcja */
   background-color: #e0e0e0;
-  color: #d6d6d6;
+  color: #383838;
   vertical-align: top;
 }
 
 a.n {
   /* nauczyciel */
-  color: #00886a;
+  color: #383838;
 }
 a.s {
   /* sala */
-  color: #00886a;
+  color: #383838;
 }
 a.k {
   /* klasa */
-  color: #00886a;
+  color: 383838;
 }
 .p {
   /* przedmiot */
-  color: #ebebeb;
+  color: #383838;
   font-weight: bold;
 }
 
@@ -113,7 +113,7 @@ a.k {
   padding-left: 10px;
   width: 400px;
   height: 60px;
-  filter: Shadow(Color=#666666, Direction=150);
+  filter: Shadow(Color=#cccccc, Direction=150);
 }
 .dark-mode .tabela {
   /* tabela z planem */
