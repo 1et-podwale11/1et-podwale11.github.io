@@ -1,6 +1,6 @@
 body {
-  background-color: #383838;
-  color: #e0e0e0;
+  background-color: #e0e0e0;
+  color: black;
   font: 11px verdana, sans-serif;
   overflow: auto;
   margin: 0;
@@ -13,12 +13,12 @@ body {
   background-color: #000000;
 }
 .tabtytul {
-  /* tabelka z grafik¹ (nag³ówek) */
+  /* tabelka z grafika (naglówek) */
   background-color: #6ee2e6;
   border-bottom: 2px solid #808080;
 }
 .tytul {
-  /* komórka z tytu³em */
+  /* komórka z tytulem */
   background-color: #696969;
   color: #ffffff;
   height: 80px;
@@ -27,7 +27,7 @@ body {
   text-align: center;
 }
 .tytulnapis {
-  /* tytu³ strony z cieniem (tylko IE) */
+  /* tytul strony z cieniem (tylko IE) */
   font-size: 70px;
   padding-left: 10px;
   width: 400px;
@@ -94,12 +94,12 @@ a.k {
 }
 
 .dark-mode .tabtytul {
-  /* tabelka z grafik¹ (nag³ówek) */
+  /* tabelka z grafika (naglówek) */
   background-color: #6ee2e6;
   border-bottom: 2px solid #808080;
 }
 .dark-mode .tytul {
-  /* komórka z tytu³em */
+  /* komórka z tytulem */
   background-color: #696969;
   color: #ffffff;
   height: 80px;
@@ -108,7 +108,7 @@ a.k {
   text-align: center;
 }
 .dark-mode .tytulnapis {
-  /* tytu³ strony z cieniem (tylko IE) */
+  /* tytul strony z cieniem (tylko IE) */
   font-size: 70px;
   padding-left: 10px;
   width: 400px;
@@ -180,7 +180,7 @@ a.k {
 }
 @media print {
   .tabtytul {
-    /* nag³ówek do druku */
+    /* naglówek do druku */
     display: none;
   }
 }
