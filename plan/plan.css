@@ -44,6 +44,11 @@ td {
 }
 
 th {
+  background-color: #e0e0e0;
+  color: #383838;
+}
+
+th .dark-mode {
   background-color: rgb(85, 85, 85);
   color: rgb(241, 241, 241);
   font-size: 13px;
