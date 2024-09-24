@@ -104,13 +104,17 @@ body {
   right: 5px;
   width: auto;
   max-width: 500px;
-  background-color: #7c7c7c;
+  background-color: #adadad;
   justify-content: right;
   align-items: end;
   border-radius: 5px;
   padding: 10px;
   flex-direction: row;
   align-items: center;
+}
+
+.dark-mode .hot-it {
+  background-color: #7c7c7c;
 }
 
 .hot-it-title {
