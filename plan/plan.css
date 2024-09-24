@@ -20,7 +20,7 @@ body {
 .tytul {
   /* komórka z tytulem */
   background-color: #e0e0e0;
-  color: #ffffff;
+  color: #383838;
   height: 80px;
   font: bold 36px verdana, sans-serif;
   border-bottom: 2px solid #c0c0c0;
